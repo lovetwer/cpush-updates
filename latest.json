@@ -2,9 +2,9 @@
   "android": {
     "versionName": "1.0",
     "versionCode": 1,
-    "downloadUrl": "https://github.com/lovetwer/cpush-updates/releases/download/v1.0/app-release.apk",
-    "releaseNotes": "初始发布版本。",
-    "date": "2026-07-09"
+    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.apk",
+    "releaseNotes": "v1.0 正式签名发布版本。",
+    "date": "2026-07-14"
   },
   "desktop": {
     "version": "1.0.0",
