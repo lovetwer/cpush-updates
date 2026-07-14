@@ -7,9 +7,9 @@
     "date": "2026-07-09"
   },
   "desktop": {
-    "version": "0.1.0",
-    "downloadUrl": "https://github.com/lovetwer/cpush-updates/releases/download/v0.1.0/cpush-desktop.exe",
-    "releaseNotes": "初始发布版本。",
-    "date": "2026-07-09"
+    "version": "1.0.0",
+    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.0_x64-setup.exe",
+    "releaseNotes": "v1.0.0 正式发布版本。",
+    "date": "2026-07-14"
   }
 }
