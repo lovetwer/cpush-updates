@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "notes": "修复桌面端来消息弹窗闪退（贴边状态下通知气泡被错误收起）的问题；仅保留贴边小球",
-  "pub_date": "2026-07-14T06:00:00Z",
+  "notes": "修复桌面端弹窗闪退；优化首次启动流程，避免隐私协议窗口被挤扁；重做激活面板 UI；仅保留贴边小球",
+  "pub_date": "2026-07-15T04:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.1_x64-setup.exe"
@@ -10,13 +10,13 @@
   "desktop": {
     "version": "1.0.1",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.1_x64-setup.exe",
-    "releaseNotes": "修复桌面端来消息弹窗闪退问题；仅保留贴边小球",
-    "date": "2026-07-14"
+    "releaseNotes": "修复桌面端弹窗闪退；优化首次启动流程，重做激活面板 UI；仅保留贴边小球",
+    "date": "2026-07-15"
   },
   "android": {
     "version": "1.0.1",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.1.apk",
-    "releaseNotes": "修复桌面端来消息弹窗闪退问题；仅保留贴边小球",
+    "releaseNotes": "修复桌面端弹窗闪退问题；仅保留贴边小球",
     "date": "2026-07-14"
   }
 }
