@@ -14,9 +14,11 @@
     "date": "2026-07-15"
   },
   "android": {
-    "version": "1.0.1",
-    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.1.apk",
-    "releaseNotes": "修复桌面端弹窗闪退问题；仅保留贴边小球",
-    "date": "2026-07-14"
+    "version": "1.0.2",
+    "versionCode": 3,
+    "versionName": "1.0.2",
+    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
+    "releaseNotes": "设置页「检查更新」按钮改为浅色系，在深色背景下更醒目；版本 1.0.2",
+    "date": "2026-07-16"
   }
 }
