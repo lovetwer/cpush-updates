@@ -17,7 +17,7 @@
     "version": "1.0.10",
     "versionCode": 11,
     "versionName": "1.0.10",
-    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
+    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.10.apk",
     "releaseNotes": "修复开关仍显粉色的问题: track/thumb改用中性底图+ColorStateList显式tint, 避免SwitchCompat内部alpha混合; 开关选中态为纯亮红(#E53935); 强制浅色模式",
     "date": "2026-07-16"
   }
