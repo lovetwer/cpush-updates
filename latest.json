@@ -1,16 +1,17 @@
 {
-  "version": "1.0.3",
-  "notes": "桌面端安装包版本与商店MSIX对齐至1.0.3 (1.0.3.0)，无功能变更",
-  "pub_date": "2026-07-16T09:30:00Z",
+  "version": "1.0.4",
+  "notes": "桌面端升级为应用内静默自动更新 (tauri-plugin-updater): 检测到新版本后后台下载, 进度条完成后自动提权安装并重启应用, 不再跳浏览器; 安装包版本与商店 MSIX 对齐至 1.0.4",
+  "pub_date": "2026-07-16T11:12:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoekN0MkRUNGlEeTJXcEpQYkdNclBBaHNpcjNkUG8rWXppenFiRVVrRXRoaGJnRDNoUHkyT3ZuSTZmZEdYcVJ4QUk5dXVManA5UGpEMUFLQW9qUWNhR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjAwMzIyCWZpbGU6Q1B1c2hfMS4wLjRfeDY0LXNldHVwLmV4ZQpUb3h3SnhtM1ZXRTNicHE5V2xpamVYTGFpSXdiRFMrMUtSWStTZnc4enc4OGs4S3JIMlhzT2ZCQVVXQXdObkhoakRLV2tnOUJiMitHL3VxZFFTUnFEZz09Cg=="
     }
   },
   "desktop": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-    "releaseNotes": "桌面端安装包版本与商店MSIX对齐至1.0.3 (1.0.3.0)，无功能变更",
+    "releaseNotes": "桌面端升级为应用内静默自动更新 (tauri-plugin-updater), 安装包版本与商店 MSIX 对齐至 1.0.4",
     "date": "2026-07-16"
   },
   "android": {
