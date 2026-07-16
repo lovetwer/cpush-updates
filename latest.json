@@ -14,11 +14,11 @@
     "date": "2026-07-15"
   },
   "android": {
-    "version": "1.0.3",
-    "versionCode": 4,
-    "versionName": "1.0.3",
+    "version": "1.0.4",
+    "versionCode": 5,
+    "versionName": "1.0.4",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
-    "releaseNotes": "整体改为清爽浅色主题：浅灰白背景+白卡片+深色文字，状态栏图标转深色，修复白图标在浅底看不见的问题，全界面可读性提升",
+    "releaseNotes": "修复强制夜间模式导致浅色主题不生效的问题（代码层 MODE_NIGHT_YES->NO）；设置页版本号改为动态显示真实版本；整 app 真正落地清爽浅色系",
     "date": "2026-07-16"
   }
 }
