@@ -4,12 +4,12 @@
   "pub_date": "2026-07-16T09:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.3_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe"
     }
   },
   "desktop": {
     "version": "1.0.3",
-    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.3_x64-setup.exe",
+    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
     "releaseNotes": "桌面端安装包版本与商店MSIX对齐至1.0.3 (1.0.3.0)，无功能变更",
     "date": "2026-07-16"
   },
