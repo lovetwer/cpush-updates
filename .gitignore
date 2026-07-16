@@ -1,0 +1,4 @@
+# 本地版本号副本不推 GitHub：更新源统一用固定名 CPush-latest.*
+# 仅忽略“按版本号命名”的本地留存副本，固定名与历史归档不受影响
+CPush_1.0.*.apk
+CPush_1.0.*_x64-setup.exe
