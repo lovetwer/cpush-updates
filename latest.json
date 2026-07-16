@@ -14,11 +14,11 @@
     "date": "2026-07-15"
   },
   "android": {
-    "version": "1.0.4",
-    "versionCode": 5,
-    "versionName": "1.0.4",
+    "version": "1.0.5",
+    "versionCode": 6,
+    "versionName": "1.0.5",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
-    "releaseNotes": "修复强制夜间模式导致浅色主题不生效的问题（代码层 MODE_NIGHT_YES->NO）；设置页版本号改为动态显示真实版本；整 app 真正落地清爽浅色系",
+    "releaseNotes": "修复 MaterialButton 强制使用 colorPrimary 红色背景导致浅色主题不生效: 所有自定义背景按钮改用 AppCompatButton 以尊重 xml 背景; 强制浅色模式保持开启",
     "date": "2026-07-16"
   }
 }
