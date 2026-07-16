@@ -1,17 +1,17 @@
 {
-  "version": "1.0.1",
-  "notes": "修复桌面端弹窗闪退；优化首次启动流程，避免隐私协议窗口被挤扁；重做激活面板 UI；仅保留贴边小球；修正用户协议/隐私政策中已下线的邮件转发与未接入的 MiniMax 等不实描述",
-  "pub_date": "2026-07-15T04:00:00Z",
+  "version": "1.0.3",
+  "notes": "桌面端安装包版本与商店MSIX对齐至1.0.3 (1.0.3.0)，无功能变更",
+  "pub_date": "2026-07-16T09:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.1_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.3_x64-setup.exe"
     }
   },
   "desktop": {
-    "version": "1.0.1",
-    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.1_x64-setup.exe",
-    "releaseNotes": "修复桌面端弹窗闪退；优化首次启动流程，重做激活面板 UI；仅保留贴边小球；修正用户协议中已下线的邮件转发与未接入的 MiniMax 等不实描述",
-    "date": "2026-07-15"
+    "version": "1.0.3",
+    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush_1.0.3_x64-setup.exe",
+    "releaseNotes": "桌面端安装包版本与商店MSIX对齐至1.0.3 (1.0.3.0)，无功能变更",
+    "date": "2026-07-16"
   },
   "android": {
     "version": "1.0.10",
