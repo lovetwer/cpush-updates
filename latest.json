@@ -14,11 +14,11 @@
     "date": "2026-07-15"
   },
   "android": {
-    "version": "1.0.6",
-    "versionCode": 7,
-    "versionName": "1.0.6",
+    "version": "1.0.7",
+    "versionCode": 8,
+    "versionName": "1.0.7",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
-    "releaseNotes": "开关选中态改深色; 测试连接/重新连接按钮统一为 outline 样式并去掉阴影; 新增使用说明与介绍弹窗; 强制浅色模式",
+    "releaseNotes": "开关选中态调更深(near-black); 保存设置去掉对勾图标; 测试连接/重新连接图标前加padding; 强制浅色模式",
     "date": "2026-07-16"
   }
 }
