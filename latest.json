@@ -1,17 +1,17 @@
 {
-  "version": "1.0.10",
-  "notes": "1.0.10",
-  "pub_date": "2026-07-17T10:50:00Z",
+  "version": "1.0.11",
+  "notes": "修复签名公钥不匹配，重新生成密钥对",
+  "pub_date": "2026-07-17T11:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/lovetwer/cpush-updates/releases/download/v1.0.10/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoek02NFlTZHpUMlp5dnI2YnYvcEJXS0dBQlFLSWNuSTBGZ09DNjkrNW9jR20zNzl5dG1VejFEenZIei9DNnI5cWtyZUpsaFVURStiNVU5SlQrTGd5Mnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjg2MTcyCWZpbGU6Q1B1c2hfMS4wLjEwX3g2NC1zZXR1cC5leGUKSWU1L0tnNHRyc1JMbDBzRjRxM09WaUZDYy9vc3MzMXFPUXE5QnlERldjMkxSZXFDRk4xZzNzUlNFdWN5Wlh4UE9aK1F2MEI3bDMrcGJPTUVGTDJ1QUE9PQo="
+      "url": "https://github.com/lovetwer/cpush-updates/releases/download/v1.0.11/CPush-latest_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK3JodXJVaGtZRzZiT0pqU213NUhkc3RPcDdyRzJpcUdDakt1aUF5UVQvQnJMR1U5cTJJamZTSGxDL0l5TjE2aTRsZDFjUXhwd0lEOW1vU3NxUWZlbXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjg3MTI1CWZpbGU6Q1B1c2hfMS4wLjExX3g2NC1zZXR1cC5leGUKOXlYV1JURUJjNGxLOWErMHpYR1ZDQWxPUndubC92RFNzbmV3MVFBSTJiWmJtWElxSmdTMHdkWTFBRUNQaERzSTkrdWJZT0l1OG5aME55VHd6WmJPQ3c9PQo="
     }
   },
   "desktop": {
-    "version": "1.0.10",
-    "downloadUrl": "https://github.com/lovetwer/cpush-updates/releases/download/v1.0.10/CPush-latest_x64-setup.exe",
-    "releaseNotes": "1.0.10",
+    "version": "1.0.11",
+    "downloadUrl": "https://github.com/lovetwer/cpush-updates/releases/download/v1.0.11/CPush-latest_x64-setup.exe",
+    "releaseNotes": "修复签名公钥不匹配，重新生成密钥对",
     "date": "2026-07-17"
   },
   "android": {
