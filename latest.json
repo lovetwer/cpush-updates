@@ -1,17 +1,17 @@
 {
-  "version": "1.0.7",
-  "notes": "修复安装流程: installMode basicUi",
-  "pub_date": "2026-07-17T10:20:00Z",
+  "version": "1.0.8",
+  "notes": "拆分download+install,加日志定位",
+  "pub_date": "2026-07-17T10:25:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoelBlUWFJcjNPRUZhbFpaVE5ZeENCMVQxc21OQ3pnU1haQkxLL211N2dKT1NjZnBDMitjcVc0YTFoT1l5N1d5Rzk4d29LbXEraDlvZTVnZ1piejEwcHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjgzNjE1CWZpbGU6Q1B1c2hfMS4wLjdfeDY0LXNldHVwLmV4ZQpaa3N5OXA1dEpNQmllaHlmRTl1MU13SHhnd2hMOEthcXhORCtLbmRvL0JnbE9lUDFDZ0Y3WmZuYjRjdCtPSVgxRklLRmpkUVFFT3VURDhXT3B5LzJEUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoek12VWRINUw4bjB6bmROZWdRTngwSzBXZ3ovSG1KdTNVbGZPcUE3ZG5ISXkyUnRYVWRiSkVxOFJvaW5jZ2FzRHJWTDdrUEZBWjFOdXdSWG5NSy94S1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjgzODk3CWZpbGU6Q1B1c2hfMS4wLjhfeDY0LXNldHVwLmV4ZQpOOHF4bFV6SGd6NjZzUXNhYzhWaUN1bUdHd0hYbXJwMmY3MFhGVUIxQ29yaGJYVWpoRVBwUnh5eGEveGo1bGNjRGs5NGVRY1NLOXlsQng3eXJQWW1Bdz09Cg=="
     }
   },
   "desktop": {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-    "releaseNotes": "修复安装流程",
+    "releaseNotes": "拆分download+install,加日志定位",
     "date": "2026-07-17"
   },
   "android": {
@@ -19,7 +19,7 @@
     "versionCode": 11,
     "versionName": "1.0.10",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
-    "releaseNotes": "修复开关粉色; 强制浅色",
+    "releaseNotes": "修复开关粉色",
     "date": "2026-07-16"
   }
 }
