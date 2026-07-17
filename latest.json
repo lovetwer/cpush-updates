@@ -1,17 +1,17 @@
 {
-  "version": "1.0.8",
-  "notes": "拆分download+install,加日志定位",
-  "pub_date": "2026-07-17T10:25:00Z",
+  "version": "1.0.9",
+  "notes": "界面显示诊断信息",
+  "pub_date": "2026-07-17T10:39:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoek12VWRINUw4bjB6bmROZWdRTngwSzBXZ3ovSG1KdTNVbGZPcUE3ZG5ISXkyUnRYVWRiSkVxOFJvaW5jZ2FzRHJWTDdrUEZBWjFOdXdSWG5NSy94S1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjgzODk3CWZpbGU6Q1B1c2hfMS4wLjhfeDY0LXNldHVwLmV4ZQpOOHF4bFV6SGd6NjZzUXNhYzhWaUN1bUdHd0hYbXJwMmY3MFhGVUIxQ29yaGJYVWpoRVBwUnh5eGEveGo1bGNjRGs5NGVRY1NLOXlsQng3eXJQWW1Bdz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoekN4bzVNWnVqSmw1dThhVDRMK1JLWW1GTmhwNjVvdXhhdlZhc2pBU0dCeTJoaFZCQUhyOEM3SnMwZitadXJYQ2ZNYjBMaWJQekVJT0FmblpnRDhZSFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjg0Nzc0CWZpbGU6Q1B1c2hfMS4wLjlfeDY0LXNldHVwLmV4ZQpOV0JjZ1lqTEwvcFd5d2ZQa2QrNUJZN0QwOThIVjBCYWlVNzJldDV4VDFSTUhnbVlGeG5ZSExPRVJJMDh4bUpqSWhvaXVGTEFHSVlHcDF2cGxIaFdBdz09Cg=="
     }
   },
   "desktop": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-    "releaseNotes": "拆分download+install,加日志定位",
+    "releaseNotes": "界面显示诊断信息",
     "date": "2026-07-17"
   },
   "android": {
