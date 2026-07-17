@@ -1,17 +1,17 @@
 {
-  "version": "1.0.9",
-  "notes": "界面显示诊断信息",
-  "pub_date": "2026-07-17T10:39:00Z",
+  "version": "1.0.10",
+  "notes": "1.0.10",
+  "pub_date": "2026-07-17T10:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoekN4bzVNWnVqSmw1dThhVDRMK1JLWW1GTmhwNjVvdXhhdlZhc2pBU0dCeTJoaFZCQUhyOEM3SnMwZitadXJYQ2ZNYjBMaWJQekVJT0FmblpnRDhZSFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjg0Nzc0CWZpbGU6Q1B1c2hfMS4wLjlfeDY0LXNldHVwLmV4ZQpOV0JjZ1lqTEwvcFd5d2ZQa2QrNUJZN0QwOThIVjBCYWlVNzJldDV4VDFSTUhnbVlGeG5ZSExPRVJJMDh4bUpqSWhvaXVGTEFHSVlHcDF2cGxIaFdBdz09Cg=="
+      "url": "https://github.com/lovetwer/cpush-updates/releases/download/v1.0.10/CPush-latest_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoekZ6ekdyYTZPeTJkK2RRUDFxZkI2OUFJa2hFWmtjaWRkMXhNdytxU3k0Y25IZEZ0SmVsMGg4YjBBWDdIVS9FMlhseGsxS1FkNmdiOWQrRWVIaE5GamdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjg1MDIwCWZpbGU6Q1B1c2hfMS4wLjEwX3g2NC1zZXR1cC5leGUKYmxnYy8wT2s4ckN3QlNwNnRBUzhJNStJa2dwcWxLVUROaTVENkZhZ2FuOEZ3bWZyL1VaZWU4LzFpZW02U2ZrMlB6NHBFZGJjR0dDcnQ1bGxYa0g0QWc9PQo="
     }
   },
   "desktop": {
-    "version": "1.0.9",
-    "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-    "releaseNotes": "界面显示诊断信息",
+    "version": "1.0.10",
+    "downloadUrl": "https://github.com/lovetwer/cpush-updates/releases/download/v1.0.10/CPush-latest_x64-setup.exe",
+    "releaseNotes": "1.0.10",
     "date": "2026-07-17"
   },
   "android": {
