@@ -1,25 +1,25 @@
 {
-  "version": "1.0.4",
-  "notes": "桌面端升级为应用内静默自动更新 (tauri-plugin-updater): 检测到新版本后后台下载, 进度条完成后自动提权安装并重启应用, 不再跳浏览器; 安装包版本与商店 MSIX 对齐至 1.0.4",
-  "pub_date": "2026-07-16T11:12:00Z",
+  "version": "1.0.5",
+  "notes": "修复应用内检查更新报错 plugin:updater|check not allowed by ACL (capability 缺少 updater:default); 静默自动更新可用",
+  "pub_date": "2026-07-17T17:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoekN0MkRUNGlEeTJXcEpQYkdNclBBaHNpcjNkUG8rWXppenFiRVVrRXRoaGJnRDNoUHkyT3ZuSTZmZEdYcVJ4QUk5dXVManA5UGpEMUFLQW9qUWNhR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjAwMzIyCWZpbGU6Q1B1c2hfMS4wLjRfeDY0LXNldHVwLmV4ZQpUb3h3SnhtM1ZXRTNicHE5V2xpamVYTGFpSXdiRFMrMUtSWStTZnc4enc4OGs4S3JIMlhzT2ZCQVVXQXdObkhoakRLV2tnOUJiMitHL3VxZFFTUnFEZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoek8zV2ZqTTBJV3FoRnZqR3MvMmtwRlFBcFVMMnNDTENydDQzV3hiNmI1VVdLckVuK1RibXhZR05ORHQzbVhUZnl1NlZxQUI3VXJ4U09vaWNyQVpibndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjc5MjQ0CWZpbGU6Q1B1c2hfMS4wLjVfeDY0LXNldHVwLmV4ZQpDbEk3WGZ6TktKcDhGay9XUFhMTURGRG82NHd5UFlKZll0SW9IWW4xRFBneXhrRWlXVExnemp0WFhydjA2VTVtOG1xZEhaT1ZpN1ZhYjE5TjlQQS9DQT09Cg=="
     }
   },
   "desktop": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-    "releaseNotes": "桌面端升级为应用内静默自动更新 (tauri-plugin-updater), 安装包版本与商店 MSIX 对齐至 1.0.4",
-    "date": "2026-07-16"
+    "releaseNotes": "修复应用内检查更新 ACL 报错; updater:default 已加入 capability",
+    "date": "2026-07-17"
   },
   "android": {
     "version": "1.0.10",
     "versionCode": 11,
     "versionName": "1.0.10",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
-    "releaseNotes": "修复开关仍显粉色的问题: track/thumb改用中性底图+ColorStateList显式tint, 避免SwitchCompat内部alpha混合; 开关选中态为纯亮红(#E53935); 强制浅色模式",
+    "releaseNotes": "修复开关仍显粉色的问题; 强制浅色模式",
     "date": "2026-07-16"
   }
 }
