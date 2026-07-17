@@ -1,17 +1,17 @@
 {
-  "version": "1.0.5",
-  "notes": "修复应用内检查更新报错 plugin:updater|check not allowed by ACL (capability 缺少 updater:default); 静默自动更新可用",
-  "pub_date": "2026-07-17T17:00:00Z",
+  "version": "1.0.6",
+  "notes": "1.0.6 更新",
+  "pub_date": "2026-07-17T10:05:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoek8zV2ZqTTBJV3FoRnZqR3MvMmtwRlFBcFVMMnNDTENydDQzV3hiNmI1VVdLckVuK1RibXhZR05ORHQzbVhUZnl1NlZxQUI3VXJ4U09vaWNyQVpibndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjc5MjQ0CWZpbGU6Q1B1c2hfMS4wLjVfeDY0LXNldHVwLmV4ZQpDbEk3WGZ6TktKcDhGay9XUFhMTURGRG82NHd5UFlKZll0SW9IWW4xRFBneXhrRWlXVExnemp0WFhydjA2VTVtOG1xZEhaT1ZpN1ZhYjE5TjlQQS9DQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1lyZytzQUJoek0vRE94dFFGNG9VWjNtc2hjU0MvRS9sWWJRQkdtdHZtOVhSSFpvQlJTWHM0QmZSRnVHY0ZJS2RLWFRmS0NXWjdMeGwyOHRRVzVuKzBpaFg2eVNkZ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjgyNzM3CWZpbGU6Q1B1c2hfMS4wLjZfeDY0LXNldHVwLmV4ZQpwMVRvNlI3TEQ3cnQ2aDlzeWdSUVFISU1ITnVRbVBVa3Y1dWErQkhXU2dVRElCa1R2MERWQkhiSkRzUityajUxa21NbG1hNGZCMEdPWEFqSnBIcXdCdz09Cg=="
     }
   },
   "desktop": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest_x64-setup.exe",
-    "releaseNotes": "修复应用内检查更新 ACL 报错; updater:default 已加入 capability",
+    "releaseNotes": "1.0.6",
     "date": "2026-07-17"
   },
   "android": {
@@ -19,7 +19,7 @@
     "versionCode": 11,
     "versionName": "1.0.10",
     "downloadUrl": "https://raw.githubusercontent.com/lovetwer/cpush-updates/main/CPush-latest.apk",
-    "releaseNotes": "修复开关仍显粉色的问题; 强制浅色模式",
+    "releaseNotes": "修复开关粉色; 强制浅色",
     "date": "2026-07-16"
   }
 }
