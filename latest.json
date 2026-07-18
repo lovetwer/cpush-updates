@@ -1,25 +1,14 @@
 {
-  "version": "1.0.16",
-  "notes": "新增本地离线语音兜底：未配置 MiMo Key 时自动使用 Windows 系统语音播报，免费且无需联网",
-  "pub_date": "2026-07-18T04:34:00Z",
+  "version": "1.0.17",
+  "notes": "修复本地系统语音播报时弹出黑色命令窗口的问题",
+  "pub_date": "2026-07-18T12:52:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK2xJc0RpNXJyazVYbmNPbWMzbEVNd2o5bGh2VEdiN2NrNkxzWTBySkwzUDk5OG9TVHBGWUczbkZlV2F5SFFNcjdTd3lLQjZlRWNtK0pTVjFhRlEvbGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQ5MjYxCWZpbGU6Q1B1c2hfMS4wLjE2X3g2NC1zZXR1cC5leGUKdlFtdVUvTTRvR1g5cThidGV5ZlhiUjRTeEpEdFgwYTFoODQ4LzFjS2ZTdmh6anRzdGl6OGp5MVJabHJ2bFpnbFJRa20wMTE3VkwxNXpCR0YxNVFmQmc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK3BTYXJqS1ljQlBrZFBwbjU4MHdiOWE4M05CaVo3dVovOHBPVklMdmVnbkV5bGIwTDZlS3lyMmVzUEt4cHhnME1ac2VVc3UyOG5UQkdJWnM4ZnFraFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzUwNDQ5CWZpbGU6Q1B1c2hfMS4wLjE3X3g2NC1zZXR1cC5leGUKa2NiL0NvOVpEQkxPZkwrQmpNc2t0aTNZWmRISkw4cHpjWGVFZVRYYXZzNUxhMjhLR2E3T3E5OHdLeGF5OGdLZm0ybFVabFBnamJMeFZGWVFhRzBjQnc9PQo=",
+      "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
-  "desktop": {
-    "version": "1.0.16",
-    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-    "releaseNotes": "新增本地离线语音兜底：未配置 MiMo Key 时自动使用 Windows 系统语音播报，免费且无需联网",
-    "date": "2026-07-18"
-  },
   "android": {
-    "version": "1.0.10",
-    "versionCode": 11,
-    "versionName": "1.0.10",
-    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "修复开关粉色",
-    "date": "2026-07-16"
+    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk"
   }
 }
