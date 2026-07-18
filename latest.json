@@ -1,17 +1,17 @@
 {
-  "version": "1.0.15",
-  "notes": "更新检查接口改用自定义域名，避免 GitHub raw 直连失败",
-  "pub_date": "2026-07-18T03:36:00Z",
+  "version": "1.0.16",
+  "notes": "新增本地离线语音兜底：未配置 MiMo Key 时自动使用 Windows 系统语音播报，免费且无需联网",
+  "pub_date": "2026-07-18T04:34:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK2wzSnV5YThNbHZJY1R2STVUS295Yk9UVElqclZqWHVzRXcyWHR5TDFzc1BMUmJ2ZmNxR3IrVlZPNkdKRkR6QjN4TGo2N3NOOHBvditFSWRLRDF2amdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQ1NzkxCWZpbGU6Q1B1c2hfMS4wLjE1X3g2NC1zZXR1cC5leGUKaUhsYlpHNHRMU1NlNVZCSzVEeG1mZ1RMdUJwdG5pV0VBU0JJb1VBRlFmc0ZZUkhseGV6TXpPM0I3Wk5iSks2cVFKM1U2emFVeGhhaEFFWlgxMVlDQnc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK2xJc0RpNXJyazVYbmNPbWMzbEVNd2o5bGh2VEdiN2NrNkxzWTBySkwzUDk5OG9TVHBGWUczbkZlV2F5SFFNcjdTd3lLQjZlRWNtK0pTVjFhRlEvbGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQ5MjYxCWZpbGU6Q1B1c2hfMS4wLjE2X3g2NC1zZXR1cC5leGUKdlFtdVUvTTRvR1g5cThidGV5ZlhiUjRTeEpEdFgwYTFoODQ4LzFjS2ZTdmh6anRzdGl6OGp5MVJabHJ2bFpnbFJRa20wMTE3VkwxNXpCR0YxNVFmQmc9PQo="
     }
   },
   "desktop": {
-    "version": "1.0.15",
+    "version": "1.0.16",
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-    "releaseNotes": "更新检查接口改用自定义域名，避免 GitHub raw 直连失败",
+    "releaseNotes": "新增本地离线语音兜底：未配置 MiMo Key 时自动使用 Windows 系统语音播报，免费且无需联网",
     "date": "2026-07-18"
   },
   "android": {
