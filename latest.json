@@ -1,17 +1,17 @@
 {
-  "version": "1.0.14",
-  "notes": "安卓与桌面下载全部走自定义域名",
-  "pub_date": "2026-07-18T03:23:43Z",
+  "version": "1.0.15",
+  "notes": "更新检查接口改用自定义域名，避免 GitHub raw 直连失败",
+  "pub_date": "2026-07-18T03:36:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK2tQU2d1ak1tcERUSGQybkptVjRoRjN1REdqeFRhMU9PUVVuUFVBaU9aOHRoVVZLUUQ4VXR1akVYSCtGTUlJS0xIVmJTSEozTEdkK0lLeVBGQ0FuQ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQ0OTY1CWZpbGU6Q1B1c2hfMS4wLjE0X3g2NC1zZXR1cC5leGUKcTFmTGNpbGRyZGdjcEc2c0FaVXlhVTkzemJGd1dxWWdmQksxYnd3eHVZWm0rZ3hReHlENzdLdUZGY2ozY0hQeUhhUlZJaVZVaGIycFZYZTVNTFdYQ0E9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK2wzSnV5YThNbHZJY1R2STVUS295Yk9UVElqclZqWHVzRXcyWHR5TDFzc1BMUmJ2ZmNxR3IrVlZPNkdKRkR6QjN4TGo2N3NOOHBvditFSWRLRDF2amdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQ1NzkxCWZpbGU6Q1B1c2hfMS4wLjE1X3g2NC1zZXR1cC5leGUKaUhsYlpHNHRMU1NlNVZCSzVEeG1mZ1RMdUJwdG5pV0VBU0JJb1VBRlFmc0ZZUkhseGV6TXpPM0I3Wk5iSks2cVFKM1U2emFVeGhhaEFFWlgxMVlDQnc9PQo="
     }
   },
   "desktop": {
-    "version": "1.0.14",
+    "version": "1.0.15",
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-    "releaseNotes": "安卓与桌面下载全部走自定义域名",
+    "releaseNotes": "更新检查接口改用自定义域名，避免 GitHub raw 直连失败",
     "date": "2026-07-18"
   },
   "android": {
