@@ -1,17 +1,17 @@
 {
-  "version": "1.0.13",
-  "notes": "通过自定义域名 cpushdownload.800820882.xyz 分发更新",
-  "pub_date": "2026-07-18T03:06:46Z",
+  "version": "1.0.14",
+  "notes": "安卓与桌面下载全部走自定义域名",
+  "pub_date": "2026-07-18T03:23:43Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK3YrV085RjB5Qk9sbnZjSkFnN3FyL1ZLQUZGeUtNUzc5NWcyWjMyMVQ5WGdFU2psOEhWQ2syaWtUYm9xcHViMFlnUWdWSzVMUWZoQk5abDFFcjUyN1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQzOTI0CWZpbGU6Q1B1c2hfMS4wLjEzX3g2NC1zZXR1cC5leGUKbXAxd3NraXYxb09COXZyK0ZBaXF4SmM5em5ScXR2Q2VCZy9LYmUydmx4aGR1MmNLYm1NV0dvbnVSU00vT0Rlb2EvVzBmUEV0ME9qTnJzaHBYWmpNRFE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK2tQU2d1ak1tcERUSGQybkptVjRoRjN1REdqeFRhMU9PUVVuUFVBaU9aOHRoVVZLUUQ4VXR1akVYSCtGTUlJS0xIVmJTSEozTEdkK0lLeVBGQ0FuQ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzQ0OTY1CWZpbGU6Q1B1c2hfMS4wLjE0X3g2NC1zZXR1cC5leGUKcTFmTGNpbGRyZGdjcEc2c0FaVXlhVTkzemJGd1dxWWdmQksxYnd3eHVZWm0rZ3hReHlENzdLdUZGY2ozY0hQeUhhUlZJaVZVaGIycFZYZTVNTFdYQ0E9PQo="
     }
   },
   "desktop": {
-    "version": "1.0.13",
+    "version": "1.0.14",
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-    "releaseNotes": "通过自定义域名 cpushdownload.800820882.xyz 分发更新",
+    "releaseNotes": "安卓与桌面下载全部走自定义域名",
     "date": "2026-07-18"
   },
   "android": {
