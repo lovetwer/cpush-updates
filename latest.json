@@ -1,14 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "修复“启用监控”开关在本地 WiFi 直连模式下不生效的问题",
-  "pub_date": "2026-07-18T13:16:00+08:00",
+  "version": "1.0.19",
+  "notes": "CPush 1.0.19 更新（皮肤优化）",
+  "pub_date": "2026-07-21T08:33:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdW5DNDFoVEdZK3NIZTkydGhnZlpYbWR4dnNHMTY0YkdTYTExMWFFZXg5U1hwNGQzUGQ3Y3BtTGJNZnVWTVJ6VWU4b2t2ZkRYT3E2dlFwdXFVNDNjUGNJMi83NWkxbkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzUxOTg2CWZpbGU6Q1B1c2hfMS4wLjE4X3g2NC1zZXR1cC5leGUKT2xjSW9DSG5ZYldnZmZWTmx0TDZUczdOWlFqU0NNWVg4c2N6M0EvNHhEaHBiNFRBWmJZbWdJb3lLWVhna09VdzVzS1lqaVZCeDNoODFUc0puWFdwQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTg4SUhPdlNGczcyYjNuTGNHZ0VacHAzZmdCQ0VzU2N5MzJvOGJ1UlBKSEJ4Nktnd3FxR1VZVFZJSnBYN3VoVVNtYjFUNjZJUUhvWHVWSXNkZy9zWndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjIyMDYyCWZpbGU6Q1B1c2hfMS4wLjE5X3g2NC1zZXR1cC5leGUKYlU3NytldGdqS2FvMjF5Zmlob080dDYwODdxNHJxUS8xTGhUWXZtWlRxcUhPSytXbmR3SUllMkdyazBmUzJXTCtnMGtyaU5mbTVsK0tpZVdTOUc0QUE9PQo=",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
-  },
-  "android": {
-    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk"
   }
 }
