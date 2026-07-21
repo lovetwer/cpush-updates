@@ -1,11 +1,14 @@
 {
   "version": "1.0.19",
-  "notes": "CPush 1.0.19 更新（皮肤优化）",
-  "pub_date": "2026-07-21T08:33:54Z",
+  "notes": "修复贴边小球来消息闪一下的问题，气泡改用独立窗口弹出",
+  "pub_date": "2026-07-21T19:40:09+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTg4SUhPdlNGczcyYjNuTGNHZ0VacHAzZmdCQ0VzU2N5MzJvOGJ1UlBKSEJ4Nktnd3FxR1VZVFZJSnBYN3VoVVNtYjFUNjZJUUhvWHVWSXNkZy9zWndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjIyMDYyCWZpbGU6Q1B1c2hfMS4wLjE5X3g2NC1zZXR1cC5leGUKYlU3NytldGdqS2FvMjF5Zmlob080dDYwODdxNHJxUS8xTGhUWXZtWlRxcUhPSytXbmR3SUllMkdyazBmUzJXTCtnMGtyaU5mbTVsK0tpZVdTOUc0QUE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTdoWEhSall2djFvTlJ2dU5udUhlL3RHaXQ0cEkyeHl6Uy96UHg2bDh0WjVxOVFmSnRUSGNRU2lxYkc1SjBUY3pOc2VGTzVJV0wwQTBTMXRVLzdjT0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjMzNDQ2CWZpbGU6Q1B1c2hfMS4wLjE5X3g2NC1zZXR1cC5leGUKM0RtRjE4NzhtVldPckV2T2YzNGU3RE9xSFJ0ZXNxQXJJRFFqU0xOd21TeVk0U0RBT2RPZGw0eEFJeE9LTThTTHNpUlByU3NZd0NOMHFsbUpvMXZ0Qmc9PQo=",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
+  },
+  "android": {
+    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk"
   }
 }
