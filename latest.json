@@ -1,10 +1,10 @@
 {
-  "version": "1.0.21",
-  "notes": "修复桌面端弹窗闪退；优化首次启动流程，避免隐私协议窗口被挤扁；重做激活面板 UI；仅保留贴边小球",
-  "pub_date": "2026-07-22T10:30:00+08:00",
+  "version": "1.0.22",
+  "notes": "添加配对码机制：先搜索桌面端再输入配对码配对；通知发送验证配对码防止未授权设备；移除本地直连模式topic机制",
+  "pub_date": "2026-07-22T20:00:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVXdjZk5RRWMyT2s5OHluSW54VzVNS0s5SWxnWThtMUNXNGVSbndaMWhxNy9oKy90bHpwMmJnVnRDc3R6TEtIc2hDRHM0OHdJZG1XdHFJaTNvQ2N1eVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Njg5NTI5CWZpbGU6Q1B1c2hfMS4wLjIxX3g2NC1zZXR1cC5leGUKN1BpWFBWUi9NeFBKRlZFVjFkUWtRWThTMUlXZ2swdk1JQTBLMUV5WmV3bkhLUk9vNHdWY3h4KzlGay9VME1HMGJrZHExME5QTW9hSU5sQ3lIaldtQ2c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVS9RTFQ5SndmZ1B2dU1KckVycURuTE02QXhhUWJPWEtyYWNYVS80ZDIyeWtORGRSRGZiNHRxQ2hJQStyT29YcVVCZFFwbUxzQzFVblduT1lsbUJzQ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzIyODc5CWZpbGU6Q1B1c2hfMS4wLjIyX3g2NC1zZXR1cC5leGUKdVR2TE13S3JJS0dwaC9HS09scXBBZHBveFdXQzVjaE4rdEZEcXZ5azd0OUtzdlRaUTNwTG9aODJVZitsNE9RUG5JeUVDOUpBcFVWV09PMklPWjhGQXc9PQo=",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
