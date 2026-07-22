@@ -1,10 +1,10 @@
 {
-  "version": "1.0.20",
-  "notes": "修复贴边小球来消息闪一下的问题，气泡改用独立窗口弹出",
-  "pub_date": "2026-07-21T20:26:30+08:00",
+  "version": "1.0.21",
+  "notes": "修复桌面端弹窗闪退；优化首次启动流程，避免隐私协议窗口被挤扁；重做激活面板 UI；仅保留贴边小球",
+  "pub_date": "2026-07-22T10:30:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVXp2S3B1cHlidUFVdHg1eEI4NEtyZW9Jb2E2aWtBM1UxMEZaNGhVT0xkNmx2RVBkb0lqZnlzdVlQL0VEakRuQ3BmaEYwMEt2ajBjN2pieEVvN2ZwQUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM2NTcxCWZpbGU6Q1B1c2hfMS4wLjIwX3g2NC1zZXR1cC5leGUKVGFiUWwxOHljd2xJbGlwWkt0NURuZDJWV1NDMkZMMXJRZy9TWnloMDdIekg1elMyYUNKd1A4cHdvbnRRWDdzbXNwQm92K1I5Q3BFNldYdTJEN0lRQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVXdjZk5RRWMyT2s5OHluSW54VzVNS0s5SWxnWThtMUNXNGVSbndaMWhxNy9oKy90bHpwMmJnVnRDc3R6TEtIc2hDRHM0OHdJZG1XdHFJaTNvQ2N1eVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Njg5NTI5CWZpbGU6Q1B1c2hfMS4wLjIxX3g2NC1zZXR1cC5leGUKN1BpWFBWUi9NeFBKRlZFVjFkUWtRWThTMUlXZ2swdk1JQTBLMUV5WmV3bkhLUk9vNHdWY3h4KzlGay9VME1HMGJrZHExME5QTW9hSU5sQ3lIaldtQ2c9PQo=",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
