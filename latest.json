@@ -9,10 +9,10 @@
     }
   },
   "android": {
-    "versionName": "1.0.12",
-    "versionCode": 13,
+    "versionName": "1.0.13",
+    "versionCode": 14,
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "添加配对码机制，支持多设备场景；修复本地直连通知发送失败问题；更新源切换为自定义域名",
+    "releaseNotes": "配对流程优化：先搜索再输入配对码；移除本地直连模式的topic机制",
     "date": "2026-07-22"
   }
 }
