@@ -9,6 +9,10 @@
     }
   },
   "android": {
-    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk"
+    "versionName": "1.0.11",
+    "versionCode": 12,
+    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
+    "releaseNotes": "添加配对码机制，支持多设备场景；修复本地直连通知发送失败问题",
+    "date": "2026-07-22"
   }
 }
