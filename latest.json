@@ -1,10 +1,10 @@
 {
-  "version": "1.0.22",
-  "notes": "添加配对码机制：先搜索桌面端再输入配对码配对；通知发送验证配对码防止未授权设备；移除本地直连模式topic机制",
-  "pub_date": "2026-07-22T20:00:00+08:00",
+  "version": "1.0.23",
+  "notes": "新增关键词精准匹配：消息列表自动识别评论/回复/消息/私信/点赞/收藏/关注等中英文关键词并高亮标记；支持仅看匹配消息过滤；设置页可自定义关键词",
+  "pub_date": "2026-07-23T22:00:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVS9RTFQ5SndmZ1B2dU1KckVycURuTE02QXhhUWJPWEtyYWNYVS80ZDIyeWtORGRSRGZiNHRxQ2hJQStyT29YcVVCZFFwbUxzQzFVblduT1lsbUJzQ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzIyODc5CWZpbGU6Q1B1c2hfMS4wLjIyX3g2NC1zZXR1cC5leGUKdVR2TE13S3JJS0dwaC9HS09scXBBZHBveFdXQzVjaE4rdEZEcXZ5azd0OUtzdlRaUTNwTG9aODJVZitsNE9RUG5JeUVDOUpBcFVWV09PMklPWjhGQXc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTB5MVA5ZVRKOHhxTkZEbzFCTm1QcWhuUnVYbzB6WEkwWmhrcjJpT093ejNtSHpyRFh2M1VDTjB3WmxlTXZiNVQrM0ZSOHRKRC80NldMSjhLSzJpL1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODAyMTg4CWZpbGU6Q1B1c2hfMS4wLjIzX3g2NC1zZXR1cC5leGUKTVpnTEhySXhKN3kyQzRlQU9UVStGV3JTUTl4c2VwNW9ydGg5clRURTcwOTB0N1VhRnk4QWM2VGY2TjdMWGdpSVJ6Slp2emE1VDdiVm1Xa2E5TWdZRFE9PQo=",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
