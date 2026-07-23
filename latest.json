@@ -9,10 +9,10 @@
     }
   },
   "android": {
-    "versionName": "1.0.16",
-    "versionCode": 17,
+    "versionName": "1.0.17",
+    "versionCode": 18,
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "移除emoji改用矢量图标；搜索时搜索图标旋转动画；403自动清除配对状态",
+    "releaseNotes": "修复部分路由器下第二台手机搜索不到桌面端的问题（增加子网定向广播）",
     "date": "2026-07-23"
   }
 }
