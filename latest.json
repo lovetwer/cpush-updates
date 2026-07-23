@@ -1,10 +1,10 @@
 {
-  "version": "1.0.23",
-  "notes": "新增关键词精准匹配：消息列表自动识别评论/回复/消息/私信/点赞/收藏/关注等中英文关键词并高亮标记；支持仅看匹配消息过滤；设置页可自定义关键词",
-  "pub_date": "2026-07-23T22:00:00+08:00",
+  "version": "1.0.24",
+  "notes": "关键词匹配增加开关控制；关闭后消息列表不显示标签和高亮",
+  "pub_date": "2026-07-23T23:00:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTB5MVA5ZVRKOHhxTkZEbzFCTm1QcWhuUnVYbzB6WEkwWmhrcjJpT093ejNtSHpyRFh2M1VDTjB3WmxlTXZiNVQrM0ZSOHRKRC80NldMSjhLSzJpL1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODAyMTg4CWZpbGU6Q1B1c2hfMS4wLjIzX3g2NC1zZXR1cC5leGUKTVpnTEhySXhKN3kyQzRlQU9UVStGV3JTUTl4c2VwNW9ydGg5clRURTcwOTB0N1VhRnk4QWM2VGY2TjdMWGdpSVJ6Slp2emE1VDdiVm1Xa2E5TWdZRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTdXQTRnTC95eUluWGt4LzB5aWxEOGlQVFhVektNRk54WFd5Znc2clBabjJnZ3ROWmlHNTZQblcyRi95bmdQZzRWMkZrazJIWFdmTEZINldJTHlscEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODAzNjMxCWZpbGU6Q1B1c2hfMS4wLjI0X3g2NC1zZXR1cC5leGUKZEo2Y3JKL0dGakZSd0ZaRDg2YUVKL2ZtZkVwQ1RoVmdUT1lwNGpKNEtmQkc5QXRqclVrb1JXc2xPdmluWWhoSGVzaGxjYVh0dUlnQXcwWlJnVnJqRGc9PQo=",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
