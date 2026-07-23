@@ -9,10 +9,10 @@
     }
   },
   "android": {
-    "versionName": "1.0.13",
-    "versionCode": 14,
+    "versionName": "1.0.14",
+    "versionCode": 15,
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "配对流程优化：先搜索再输入配对码；移除本地直连模式的topic机制",
-    "date": "2026-07-22"
+    "releaseNotes": "自动发现按钮改为渐变实心+脉冲呼吸动画，更醒目；配对成功后显示已配对状态",
+    "date": "2026-07-23"
   }
 }
