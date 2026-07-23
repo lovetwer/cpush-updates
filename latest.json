@@ -9,10 +9,10 @@
     }
   },
   "android": {
-    "versionName": "1.0.15",
-    "versionCode": 16,
+    "versionName": "1.0.16",
+    "versionCode": 17,
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "桌面端刷新配对码后，手机发送通知收到403时自动清除配对状态并提示重新配对",
+    "releaseNotes": "移除emoji改用矢量图标；搜索时搜索图标旋转动画；403自动清除配对状态",
     "date": "2026-07-23"
   }
 }
