@@ -9,10 +9,10 @@
     }
   },
   "android": {
-    "versionName": "1.0.14",
-    "versionCode": 15,
+    "versionName": "1.0.15",
+    "versionCode": 16,
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "自动发现按钮改为渐变实心+脉冲呼吸动画，更醒目；配对成功后显示已配对状态",
+    "releaseNotes": "桌面端刷新配对码后，手机发送通知收到403时自动清除配对状态并提示重新配对",
     "date": "2026-07-23"
   }
 }
