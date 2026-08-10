@@ -1,18 +1,18 @@
 {
-  "version": "1.0.25",
-  "notes": "关键词开关改为过滤模式：打开只收带关键词的通知，关闭收全部通知",
-  "pub_date": "2026-07-23T23:30:00+08:00",
+  "version": "2.0.0",
+  "notes": "局域网文件传输全面修复：进度条实时显示、取消传输不再卡死或误报错误；发送文件必须手动选择目标设备（未选提示“请先选择目标设备”）；设备列表改为真实在线探测，离线设备灰显且不可选择。另含多项界面与稳定性优化。",
+  "pub_date": "2026-08-10T09:30:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVXh1YjBIRHpZUmJjaW5LOWZJNjhEQzVIcDNwb1N1VGhpU3RDU2dJei9mTU9Sek9RZVVCbTNrV2kxK2NyU3BpbzVSYnVDakFZME5ZVjhQUVlVQzN0OEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODA1MzkxCWZpbGU6Q1B1c2hfMS4wLjI1X3g2NC1zZXR1cC5leGUKRnBEd1piSkNaQ2dnZVJiMk9EQWVaam9LMmt1MGRoK3VlTVNBdy9DNkh0akliWFdGUmJ5Zk9NeFNCN0tGV2VSQVNDdmlBN0NlU3pzOTFSTlBkeTIvQ0E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVXlWaFBZcXNaMlkwbEljeW9mRzRzd0Zpc0lXZkh2alZabXhkbUFpTnpzZGVDR3E2QWtVaFRXOTBZRWNMRm1pcTZnUHdkaU51N0pGYTJ3ZGFrOUJNVlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI0MzAxCWZpbGU6Q1B1c2hfMi4wLjBfeDY0LXNldHVwLmV4ZQpSdjZqSVJMV2tpeTZheUh6YkUvUC81Qk9ESitQMzAvelZWdkdPVHZvVS9obk5DUzY0bG5seWNORVIveGg2T0ltMzJUOU0xalQ0Smc0cHAzZUZ1SnZCQT09Cg==",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
   "android": {
-    "versionName": "1.0.17",
-    "versionCode": 18,
+    "versionName": "2.0.0",
+    "versionCode": 20,
     "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "修复部分路由器下第二台手机搜索不到桌面端的问题（增加子网定向广播）",
-    "date": "2026-07-23"
+    "releaseNotes": "同桌面端：文件传输修复、发送需手动选择设备、设备真实在线探测。",
+    "date": "2026-08-10"
   }
 }
