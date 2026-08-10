@@ -1,18 +1,1 @@
-{
-  "version": "2.0.2",
-  "notes": "桌面端修复：激活面板背景透明导致桌面内容透出、窗口留白过大出现白框的问题，已改为紧贴卡片尺寸；其余同 2.0.0（文件传输修复、发送需手动选择设备、设备真实在线探测）。",
-  "pub_date": "2026-08-10T10:38:00+08:00",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVS9jSlVrUERHcVdqckU2cDZPaGJVcmpDbjJWcnhwdWh3L0ZteDV6TUswdVlpWGFVUzVsc1h6ZXFVTlh4R3BaOE9yMlY1dllHS0o5SnN6NElxRE9JdVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI5NTI3CWZpbGU6Q1B1c2hfMi4wLjJfeDY0LXNldHVwLmV4ZQo4RVZCUjE1bVZBcFR6QUtWVWtIdnhjNlRUcEdXemxGNy82cTZ1Vm5uakNKS0g4SlJzb3JtenBOSVVYU0E4MXhvc25manB0bys0K2Fjd2lmaXNJdEZEUT09Cg==",
-      "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
-    }
-  },
-  "android": {
-    "versionName": "2.0.0",
-    "versionCode": 20,
-    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
-    "releaseNotes": "同桌面端：文件传输修复、发送需手动选择设备、设备真实在线探测。",
-    "date": "2026-08-10"
-  }
-}
+{"version": "2.0.3", "notes": "更新闲鱼购买链接", "platforms": {"windows-x86_64": {"url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe", "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTVNN1cyelM0NnFBbHMzMlAvTCs3M2JMZ2RkWGtZSFZnZXVOT1hqSm8vY0c1bThoeVd2ODlOZ1RMNkNHMVBsTkhnTmdmUEViRGpIc216Y21WSkU5ZHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzM0NTU3CWZpbGU6Q1B1c2hfMi4wLjNfeDY0LXNldHVwLmV4ZQpDTWEzZUN4eG5mQnlxaTF4TVdPV2lMVFFLOVM5a2lzSk0xakNwai9UWnJXd3dDT0JhZ29KZ3hVdEtyUVNDVHRhZWM3MHdjYmdGNUhJaUFOVUF1OU9CUT09Cg=="}}, "android": {"versionName": "2.0.0", "versionCode": 20, "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk", "releaseNotes": "v2.0.0 首次发布", "date": "2026-08-08"}}
