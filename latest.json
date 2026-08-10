@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0",
-  "notes": "局域网文件传输全面修复：进度条实时显示、取消传输不再卡死或误报错误；发送文件必须手动选择目标设备（未选提示“请先选择目标设备”）；设备列表改为真实在线探测，离线设备灰显且不可选择。另含多项界面与稳定性优化。",
-  "pub_date": "2026-08-10T09:30:00+08:00",
+  "version": "2.0.1",
+  "notes": "桌面端修复：首次启动激活面板背景透明、卡片外区域透出桌面内容的问题。其余同 2.0.0（文件传输修复、发送需手动选择设备、设备真实在线探测）。",
+  "pub_date": "2026-08-10T10:10:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVXlWaFBZcXNaMlkwbEljeW9mRzRzd0Zpc0lXZkh2alZabXhkbUFpTnpzZGVDR3E2QWtVaFRXOTBZRWNMRm1pcTZnUHdkaU51N0pGYTJ3ZGFrOUJNVlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI0MzAxCWZpbGU6Q1B1c2hfMi4wLjBfeDY0LXNldHVwLmV4ZQpSdjZqSVJMV2tpeTZheUh6YkUvUC81Qk9ESitQMzAvelZWdkdPVHZvVS9obk5DUzY0bG5seWNORVIveGg2T0ltMzJUOU0xalQ0Smc0cHAzZUZ1SnZCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVThCV2Z2UVV2MlhlNTY2OWw1NGxwOFVKSk5qQzZvRTJBR2VzZjZMNXJnTVpJSGlVcHVoU25JK0Z3Nlk4VnpUWXVIdWtoSmtmNk1MYzhRNU5NeW5laXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI3ODQxCWZpbGU6Q1B1c2hfMi4wLjFfeDY0LXNldHVwLmV4ZQo0dys2RkhZN2xteXE2bmJIa2tXZG53VTZGLzZENFhmM21JV3cvYnAyMVZid0dPUUo5b2JBT09KNGc4SGVIQ3NOV0QySFc5ckVSZ1NrMkVyWmZyVFlCZz09Cg==",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
