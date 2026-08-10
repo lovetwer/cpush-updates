@@ -1,10 +1,10 @@
 {
   "version": "2.0.1",
-  "notes": "桌面端修复：首次启动激活面板背景透明、卡片外区域透出桌面内容的问题。其余同 2.0.0（文件传输修复、发送需手动选择设备、设备真实在线探测）。",
-  "pub_date": "2026-08-10T10:10:00+08:00",
+  "notes": "桌面端修复：激活面板背景透明导致桌面内容透出、以及窗口留白过大出现白框的问题，已改为紧贴卡片尺寸；其余同 2.0.0（文件传输修复、发送需手动选择设备、设备真实在线探测）。",
+  "pub_date": "2026-08-10T10:29:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVThCV2Z2UVV2MlhlNTY2OWw1NGxwOFVKSk5qQzZvRTJBR2VzZjZMNXJnTVpJSGlVcHVoU25JK0Z3Nlk4VnpUWXVIdWtoSmtmNk1MYzhRNU5NeW5laXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI3ODQxCWZpbGU6Q1B1c2hfMi4wLjFfeDY0LXNldHVwLmV4ZQo0dys2RkhZN2xteXE2bmJIa2tXZG53VTZGLzZENFhmM21JV3cvYnAyMVZid0dPUUo5b2JBT09KNGc4SGVIQ3NOV0QySFc5ckVSZ1NrMkVyWmZyVFlCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTc5V2VIMCtWZGg4N3dMV09OK09zSVJyTFpxblpZZmxaOGJhZnRlbmRzSDliM09UT3JVU3JZR0JNd0dPZWVhTHFOamY1bEorc1VQZStDR1V3TXR2cXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI4NzQ0CWZpbGU6Q1B1c2hfMi4wLjFfeDY0LXNldHVwLmV4ZQpGM3lhVVA4d0RXeHFxZHpjKzZ6NjVqb3BpbXo3ZmZmM2tZeEJyQ2Y2S1lmWFlZUmlJajAwUzlvRGs5alF4cnEzcUJLVjFVSTl3SmkvL0NuRWkwWHVCUT09Cg==",
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe"
     }
   },
