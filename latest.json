@@ -1,1 +1,18 @@
-{"version": "2.0.3", "notes": "更新闲鱼购买链接", "platforms": {"windows-x86_64": {"url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe", "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTVNN1cyelM0NnFBbHMzMlAvTCs3M2JMZ2RkWGtZSFZnZXVOT1hqSm8vY0c1bThoeVd2ODlOZ1RMNkNHMVBsTkhnTmdmUEViRGpIc216Y21WSkU5ZHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzM0NTU3CWZpbGU6Q1B1c2hfMi4wLjNfeDY0LXNldHVwLmV4ZQpDTWEzZUN4eG5mQnlxaTF4TVdPV2lMVFFLOVM5a2lzSk0xakNwai9UWnJXd3dDT0JhZ29KZ3hVdEtyUVNDVHRhZWM3MHdjYmdGNUhJaUFOVUF1OU9CUT09Cg=="}}, "android": {"versionName": "2.0.0", "versionCode": 20, "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk", "releaseNotes": "v2.0.0 首次发布", "date": "2026-08-08"}}
+{
+  "version": "2.0.4",
+  "notes": "桌面端 2.0.4：重构激活逻辑，支持「包年 / 永久」两种激活码；设置页授权卡片改为竖排分区，显示更清晰；修复旧版激活接口与授权服务器不匹配的问题。安卓端本次无变动（仍为 2.0.0）。",
+  "pub_date": "2026-08-11T17:00:00+08:00",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTZyMU5VOGtoV1hQejQ5NmpxOXliUXBqWnNaTm03M2tpcU4wTzNLdWpCOFVlMnNtTmF6UkhXd1d6UnU3NWJnZklHVHI4Yks0TlZ1R1VjV3BYZUVnMXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDM3MTg0CWZpbGU6Q1B1c2hfMi4wLjRfeDY0LXNldHVwLmV4ZQpTbU1tRFFXbXJaNk9Hb0lpSHVuQlN4b2pnU01SMFJyQ2FURWJ2QTdPd3RIUzM5bWdKWDZESDcxRXlxUEp3dHZtWDE5MTg2V29YRUtkOGgwMWRFOHdEQT09Cg=="
+    }
+  },
+  "android": {
+    "versionName": "2.0.0",
+    "versionCode": 20,
+    "downloadUrl": "https://cpushdownload.800820882.xyz/CPush-latest.apk",
+    "releaseNotes": "v2.0.0 首次发布",
+    "date": "2026-08-08"
+  }
+}
