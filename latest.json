@@ -1,11 +1,11 @@
 {
-  "version": "2.0.4",
-  "notes": "桌面端 2.0.4：重构激活逻辑，支持「包年 / 永久」两种激活码；设置页授权卡片改为竖排分区，显示更清晰；修复旧版激活接口与授权服务器不匹配的问题。安卓端本次无变动（仍为 2.0.0）。",
-  "pub_date": "2026-08-11T17:00:00+08:00",
+  "version": "2.0.5",
+  "notes": "桌面端 2.0.5：授权安全加固——修复设备不匹配漏洞（一码多机）、增加服务器授时防系统时间篡改、license.json 防篡改签名、联网后自动补验且验证失败直接退出软件。",
+  "pub_date": "2026-08-11T12:04:46.408004Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://cpushdownload.800820882.xyz/CPush-latest_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTZyMU5VOGtoV1hQejQ5NmpxOXliUXBqWnNaTm03M2tpcU4wTzNLdWpCOFVlMnNtTmF6UkhXd1d6UnU3NWJnZklHVHI4Yks0TlZ1R1VjV3BYZUVnMXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDM3MTg0CWZpbGU6Q1B1c2hfMi4wLjRfeDY0LXNldHVwLmV4ZQpTbU1tRFFXbXJaNk9Hb0lpSHVuQlN4b2pnU01SMFJyQ2FURWJ2QTdPd3RIUzM5bWdKWDZESDcxRXlxUEp3dHZtWDE5MTg2V29YRUtkOGgwMWRFOHdEQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeE1iWFdLTGVDVTBlRENlcndaRUNuU2dLN3RZb1pSY3ZwYS9IMk1CenMzK1BnMjFBemkyZlVIbEtzSXJIRnVzSzE3WkdwRCttWEFnYWJOUlpOYVpDU2dVTFFKdWYwbEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDQ5NzgxCWZpbGU6Q1B1c2hfMi4wLjVfeDY0LXNldHVwLmV4ZQpESkdBcXkrQWJyaVFuRTN0Y3BWWEVLeDc2clpEZkhwR3o3b1o1ak5BdWJYK0xDM3htc0RlTWtNUGsyci9IcVdVaE9LOGRVdTFmb0VKczJIS0N1eE1Bdz09Cg=="
     }
   },
   "android": {
